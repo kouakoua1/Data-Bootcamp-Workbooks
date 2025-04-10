@@ -1,0 +1,36 @@
+,id,name,class,score,gender,grade
+0,1,John Deo,Four,75,female,B
+1,2,Max Ruin,Three,85,male,A
+2,3,Arnold,Three,55,male,D
+3,4,Krish Star,Four,60,female,C
+4,5,John Mike,Four,60,female,C
+5,6,Alex John,Four,55,male,D
+6,7,My John Rob,Fifth,78,male,B
+7,8,Asruid,Five,85,male,A
+8,9,Tes Qry,Six,78,,B
+9,10,Big John,Four,55,female,D
+10,11,Ronald,Six,89,female,A
+11,12,Recky,Six,94,female,A
+12,13,Kty,Seven,88,female,A
+13,14,Bigy,Seven,88,female,A
+14,15,Tade Row,,88,male,A
+15,16,Gimmy,Four,88,male,A
+16,17,Tumyu,Six,54,male,D
+17,18,Honny,Five,75,male,B
+18,19,Tinny,Nine,18,male,D
+19,20,Jackly,Nine,65,female,C
+20,21,Babby John,Four,69,female,C
+21,22,Reggid,Seven,55,female,D
+22,23,Herod,Eight,79,male,B
+23,24,Tiddy Now,Seven,78,male,B
+24,25,Giff Tow,Seven,88,male,A
+25,26,Crelea,Seven,79,male,B
+26,27,,Three,81,,B
+27,28,Rojj Base,Seven,86,female,A
+28,29,Tess Played,Seven,55,male,D
+29,30,Reppy Red,Six,79,female,B
+30,31,Marry Toeey,Four,88,male,A
+31,32,Binn Rott,Seven,90,female,A
+32,33,Kenn Rein,Six,96,female,A
+33,34,Gain Toe,Seven,69,male,C
+34,35,Rows Noump,Six,88,female,A
